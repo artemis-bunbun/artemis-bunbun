@@ -1,5 +1,7 @@
 ## Hey :D
-*I use Arch btw and love my homelab, but not my electricity bill*
+*I use Arch btw and love my homelab, but not my electricity bill
+In my free time I design PCB's with their BOM's, schematics, and documentation. My goal currently is to make my own SBC that has my own take on "Unified Memory"
+You know, the BEST type of memory!*
 
 ### Socials:
 <a href="https://www.linkedin.com/in/alexander0durant/" target="_blank"><img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
