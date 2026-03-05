@@ -1,6 +1,7 @@
 ## Hey :D
-*I use Arch btw and love my homelab, but not my electricity bill
-In my free time(and how I make cash on the side) I design PCB's with their BOM's, schematics, and documentation. My goal currently is to make my own SBC that has my own take on "Unified Memory"
+*I use Arch btw and love my homelab, but not my electricity bill*
+
+*In my free time(and how I make cash on the side) I design PCB's with their BOM's, schematics, and documentation. My goal currently is to make my own SBC that has my own take on "Unified Memory"
 You know, the BEST type of memory!*
 
 ### Socials:
