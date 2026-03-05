@@ -33,7 +33,7 @@
 
 ### Now Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315vh7huui2vh4c7vhowwmwls6nm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://open.spotify.com/user/315vh7huui2vh4c7vhowwmwls6nm)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315vh7huui2vh4c7vhowwmwls6nm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 </td>
 </tr>
