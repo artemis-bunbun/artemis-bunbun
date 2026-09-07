@@ -8,6 +8,7 @@ You know, the BEST type of memory!*
 <br />
 ### Languages:
 <a href="https://www.cprogramming.com/" target="_blank"><img align="left" alt="C" width="26px" src="https://cdn.simpleicons.org/c/A8B9CC"/></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img align="left" alt="Rust" width="26px" src="https://cdn.simpleicons.org/rust/F74C00"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" width="26px" src="https://cdn.simpleicons.org/gnubash/4EAA25"/></a>
 <a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" width="26px" src="https://cdn.simpleicons.org/javascript/F7DF1E"/></a>
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://cdn.simpleicons.org/html5/E34F26"/></a>
