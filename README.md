@@ -33,4 +33,6 @@ You know, the BEST type of memory!*
 <a href="https://ubuntu.com/" target="_blank"><img align="left" alt="Ubuntu" width="26px" src="https://cdn.simpleicons.org/ubuntu/E95420"/></a>
 <a href="https://archlinux.org/" target="_blank"><img align="left" alt="Arch Linux" width="26px" src="https://cdn.simpleicons.org/archlinux/1793D1"/></a>
 <a href="https://nixos.org/" target="_blank"><img align="left" alt="NixOS" width="26px" src="https://cdn.simpleicons.org/nixos/5277C3"/></a>
+<a href="https://www.proxmox.com/" target="_blank"><img align="left" alt="Proxmox" width="26px" src="https://cdn.simpleicons.org/proxmox/E57000"/></a>
+<a href="https://alpinelinux.org/" target="_blank"><img align="left" alt="Alpine Linux" width="26px" src="https://cdn.simpleicons.org/alpinelinux/0D597F"/></a>
 <br />
